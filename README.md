@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **US Car accidents**
 
-- 🌱 I’m currently learning **Hadoop, Spark, Airflow, Kafka**
+- 🌱 I’m currently learning **Hadoop, Spark, Airflow, Kafka, Tableau, Power BI**
 
-- 💬 Ask me about **Data Analyst / Engineering**
+- 💬 Ask me about **Data Analyst/ Data Engineering **
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1l20uVZk3CR8NR0DkQHbo_eKefE5On8s6/view?usp=drive_link](https://drive.google.com/file/d/1l20uVZk3CR8NR0DkQHbo_eKefE5On8s6/view?usp=drive_link)
 
