@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Kotkar</h1>
-<h3 align="center">Passionate about leveraging my data science and software development skills to deliver value</h3>
+<h3 align="center">Passionate about leveraging my problem solving skills to deliver value</h3>
 
 - 🔭 I’m currently working on **US Car accidents**
 
