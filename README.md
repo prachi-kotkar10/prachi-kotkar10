@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prachi Kotkar</h1>
 <h3 align="center">Passionate about leveraging my problem solving skills to deliver value</h3>
 
-- 🔭 I’m currently working on **US Car accidents**
+- 🔭 I’m currently working on **a live project with Atlassian as a student Practicum**
 
 - 🌱 I’m currently learning **Hadoop, Spark, Airflow, Kafka, Tableau, Power BI**
 
-- 💬 Ask me about **Data Analyst/ Data Engineering **
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1l20uVZk3CR8NR0DkQHbo_eKefE5On8s6/view?usp=drive_link](https://drive.google.com/file/d/1l20uVZk3CR8NR0DkQHbo_eKefE5On8s6/view?usp=drive_link)
 
